@@ -1,2 +1,2 @@
 # python-hackerrank-practice
-daily fast runs
+daily runs
